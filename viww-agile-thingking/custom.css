@@ -1,0 +1,490 @@
+body,
+.demo__header {
+    background-color: #000000;
+}
+
+.header__logo {
+    background-color: #fff;
+    border-radius: 5rem;
+    padding: 0.4rem 1rem;
+}
+
+.intro__content {
+    background-color: none;
+    padding: 0rem !important;
+}
+
+.intro__content:hover .overlay {
+    opacity: 1 !important;
+}
+
+.intro__content:hover .overlay-container {
+    opacity: 1 !important;
+}
+
+.logo-title {
+    width: 15vw;
+}
+
+.overlay-container {
+    mask-image: linear-gradient(10deg, rgba(231, 19, 19, 0.41), rgba(231, 19, 19, 0.4)) !important;
+}
+
+.headline__title {
+    font-size: 5.5rem;
+    text-align: right;
+    color: white !important;
+    max-width: 100% !important;
+}
+
+.series-1 {
+    border-radius: 3.3rem;
+    background-color: none !important;
+    -webkit-transition: all 0.3s cubic-bezier(0.23, 0.65, 0.74, 1.09);
+    -moz-transition: all 0.3s cubic-bezier(0.23, 0.65, 0.74, 1.09);
+    transition: all 0.3s cubic-bezier(0.23, 0.65, 0.74, 1.09);
+}
+
+.series-1:hover,
+.cost-1:hover,
+.cost-2:hover {
+    -webkit-transform: translate3d(0, -0.6rem, 0);
+    -moz-transform: translate3d(0, -0.6rem, 0);
+    transform: translate3d(0, -0.6rem, 0);
+    -webkit-box-shadow: 0 14px 28px rgba(24, 59, 126, 0.15), 0 10px 10px rgba(24, 59, 126, 0.12);
+    -moz-box-shadow: 0 14px 28px rgba(24, 59, 126, 0.15), 0 10px 10px rgba(24, 59, 126, 0.12);
+    box-shadow: 0 14px 28px rgba(24, 59, 126, 0.15), 0 10px 10px rgba(24, 59, 126, 0.12);
+}
+
+.v-iww {
+    color: rgb(255, 179, 179) !important;
+    margin-top: 2rem;
+}
+
+.title-iww-1 {
+    font-size: 2.5rem;
+    color: rgb(160, 160, 160) !important;
+}
+
+.headline__title.cost {
+    text-align: left;
+}
+
+.cost-1 {
+    margin-left: -1rem !important;
+    -webkit-transition: all 0.3s cubic-bezier(0.23, 0.65, 0.74, 1.09);
+    -moz-transition: all 0.3s cubic-bezier(0.23, 0.65, 0.74, 1.09);
+    transition: all 0.3s cubic-bezier(0.23, 0.65, 0.74, 1.09);
+}
+
+.cost-2 {
+    margin-left: 1rem !important;
+    -webkit-transition: all 0.3s cubic-bezier(0.23, 0.65, 0.74, 1.09);
+    -moz-transition: all 0.3s cubic-bezier(0.23, 0.65, 0.74, 1.09);
+    transition: all 0.3s cubic-bezier(0.23, 0.65, 0.74, 1.09);
+}
+
+.bg-main {
+    background-image: url(../img/demo/bg-main2.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    -moz-background-size: cover;
+    background-size: cover;
+    max-width: unset !important;
+}
+
+.visual-iww {
+    border-radius: 3.3rem;
+    background-image: url(../img/demo/careers/iww.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    -moz-background-size: cover;
+    background-size: cover;
+    z-index: 1;
+}
+
+.title-iww {
+    font-size: 6rem;
+    color: #ec1c14 !important;
+    padding: 1rem 3rem;
+    background-color: white;
+    border-radius: 5rem;
+    width: fit-content;
+}
+
+.title-iww-2 {
+    font-size: 6rem;
+    width: fit-content;
+    color: white !important;
+}
+
+.headline {
+    width: auto !important;
+}
+
+.block-visual-1 {
+    border-radius: 3.3rem;
+    background-color: none;
+    border: solid 1px white;
+    padding: 2rem !important;
+}
+
+.block-visual-2 {
+    padding: 2rem !important;
+    margin-left: 1rem;
+    border-radius: 3.3rem;
+    background-color: none;
+    border: solid 1px white;
+}
+
+.countdown {
+    text-transform: none;
+    font-size: 5rem;
+    line-height: 1.2;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    color: #ff1414 !important;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.image-bg-about {
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-image: url(../img/demo/bg-title.jpg);
+}
+
+.about-block {
+    border-radius: 3.3rem;
+    background-color: rgb(46, 46, 46);
+}
+
+.subscribe__title {
+    width: fit-content;
+    max-width: 100%;
+}
+
+.career-card {
+    height: fit-content;
+}
+
+.career-day {
+    background-color: transparent !important;
+    border-radius: 0 !important;
+    pointer-events: none !important;
+}
+
+.card__caption.linear-black {
+    padding: 2rem;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}
+
+.caption__title {
+    margin-bottom: 0;
+}
+
+.text-detail {
+    font-size: 1.8rem !important;
+}
+
+.subscribe__container {
+    background-image: url(../img/demo/talentprogram2.jpg) !important;
+}
+
+.lesson-size {
+    font-size: 3rem;
+    height: fit-content !important;
+    padding: 1rem;
+    border-radius: 5rem;
+}
+
+.text-lesson {
+    font-size: 2rem;
+}
+
+.lesson-des {
+    text-align: center;
+    font-size: 1.7rem !important;
+}
+
+.help-font {
+    font-size: 1.7rem !important;
+}
+
+.text-solution {
+    font-size: 1.7rem !important;
+}
+
+.text-fee {
+    font-size: 3vw;
+    font-weight: 700;
+    margin-bottom: -1.5rem;
+}
+
+.text-fee.discount {
+    font-size: 4vw;
+    font-weight: 700;
+    margin-bottom: -1.5rem;
+}
+
+.circle {
+    background-color: white !important;
+}
+
+.caption {
+    font-size: 2rem !important;
+    line-height: 3rem !important;
+    font-weight: 500 !important;
+    margin-bottom: 0.5rem;
+}
+
+.caption-2 {
+    font-size: 4.5rem !important;
+    line-height: 4.5rem !important;
+    font-weight: 800 !important;
+}
+
+.title.we-s {
+    font-size: 4rem !important;
+}
+
+.descr.we-s {
+    font-size: 3rem !important;
+}
+
+@media (max-width: 768px) {
+    .headline__title {
+        font-size: 3.5rem !important;
+    }
+    .descr.opposite {
+        font-size: 2rem !important;
+    }
+    .title-iww-1 {
+        font-size: 1.7rem !important;
+    }
+    .title-iww,
+    .title-iww-2 {
+        font-size: 4rem !important;
+        margin-left: 0 !important;
+    }
+    #countdown1 {
+        padding-left: 0 !important;
+    }
+    .countdown {
+        font-size: 3rem !important
+    }
+    .series-1 {
+        margin-left: 0 !important;
+    }
+    .btn-mobile {
+        display: none !important;
+    }
+    .lesson-size {
+        font-size: 2.5rem;
+    }
+    .testimonial-pd {
+        margin-left: 0 !important;
+    }
+    .text-fee {
+        font-size: 4rem;
+    }
+    .text-fee.discount {
+        font-size: 6rem;
+    }
+    .logo-zoom {
+        display: none !important;
+    }
+}
+
+.logo-zoom {
+    position: absolute;
+    right: 2rem;
+    width: 120px;
+}
+
+.rounded-tag {
+    margin: 3rem 0 1rem 0 !important;
+}
+
+.custom-pd {
+    max-width: 1760px;
+    margin: 0 auto;
+    padding: 0px 6.5rem 0 6.5rem;
+}
+
+.title-course {
+    margin-left: 3rem !important;
+}
+
+@media (max-width: 768px) {
+    .custom-pd {
+        padding: 0px 1rem;
+    }
+    .series-1 {
+        padding: 0 !important;
+    }
+    .title-course {
+        margin-left: 0 !important;
+    }
+    .caption-2 {
+        font-size: 3.5rem !important;
+        line-height: 3.5rem !important;
+    }
+    .descr.opposite.help-font {
+        font-size: 1.5rem !important;
+    }
+}
+
+.discount {
+    color: rgb(255, 255, 157) !important;
+}
+
+.image-trainer-1 {
+    background-image: url(../img/demo/careers/Huyen.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    -moz-background-size: cover;
+    background-size: cover;
+    height: 75vh;
+}
+
+.image-trainer-2 {
+    background-image: url(../img/demo/careers/Dung.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    -moz-background-size: cover;
+    background-size: cover;
+    height: 75vh;
+}
+
+.trainer-2 {
+    margin-top: -12rem;
+}
+
+.v-iww-title {
+    background-position: 80% bottom !important;
+}
+
+@media (max-width: 991px) {
+    .image-trainer-2 {
+        display: none !important;
+    }
+    .trainer-hide {
+        display: block !important;
+    }
+    .trainer-2 {
+        margin-top: 0 !important
+    }
+}
+
+.help-font.title {
+    min-height: 4rem !important;
+}
+
+@media (max-width: 1200px) {
+    .v-iww-title {
+        background-position: left bottom !important;
+    }
+    .faq-title h3 {
+        max-width: 85% !important;
+    }
+}
+
+.faq-container {
+    background-color: rgb(46, 46, 46);
+    padding: 0 1rem 0 3rem;
+    border-radius: 3rem;
+    margin: 1rem 0;
+}
+
+.btn-expand {
+    background-color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+.faq-container h2 {
+    color: #fff;
+}
+
+.faq {
+    border-bottom: 1px solid #555;
+}
+
+.faq:last-child {
+    border-bottom: none;
+}
+
+.faq-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    padding: 10px 0;
+}
+
+.faq-title h3 {
+    margin: 0;
+    font-size: 1.7rem;
+    font-weight: 700;
+    color: white;
+    max-width: 90%;
+}
+
+.faq-title p {
+    transition: transform 0.3s ease;
+}
+
+.faq-content {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    padding-bottom: 2rem;
+    margin-top: -2rem;
+    transition: max-height 0.5s ease, opacity 0.5s ease, margin-top 0.5s ease;
+}
+
+.faq-content p {
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: white;
+}
+
+.faq-content-inner {
+    padding: 0 20px;
+    /* Adjust padding as needed */
+}
+
+.faq-content.expanded {
+    max-height: 1000px;
+    margin-top: 1rem;
+    /* Set to a max value that your content would not exceed */
+    opacity: 1;
+}
+
+.faq-title.expanded p {
+    transform: rotate(-180deg);
+    background-color: #ec1c14;
+    color: white;
+}
+
+.video-faq {
+    width: 100%;
+    border-radius: 3rem;
+    margin-top: 0.5rem !important;
+}
+
+.video-faq {
+    display: none;
+    /* Initially hide videos */
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.video-visible {
+    display: block !important;
+    /* Make video block to show it */
+    opacity: 1 !important;
+    transition: opacity 0.5s ease;
+}
