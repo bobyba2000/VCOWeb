@@ -386,12 +386,12 @@ $('#job2').on('click', function() {
         <div class="col-md-12 mb-4 mt-3 right-pd">
     <label for="position" class="form-label">11. The position you are applying for: <strong style="color: red;">*</strong> </label>
     <select class="form-select fw-semibold" id="position" name="position" required>
-    <option value="B2C SALES EXECUTIVE">B2C SALES EXECUTIVE</option>
+    <option value="BUSINESS DEVELOPMENT EXECUTIVE">BUSINESS DEVELOPMENT EXECUTIVE</option>
     <option selected value="B2B SALES EXECUTIVE">B2B SALES EXECUTIVE</option>
     <option value="SOLUTIONS SUCCESS EXECUTIVE">SOLUTIONS SUCCESS EXECUTIVE</option>
-    <option value="MARKETING & BRANDING SUCCESS EXECUTIVE">MARKETING & BRANDING SUCCESS EXECUTIVE</option>
+    <option value="PEOPLE & CULTURE EXECUTIVE">PEOPLE & CULTURE EXECUTIVE</option>
+    <option value="DATA ANALYST FRESHER">DATA ANALYST FRESHER</option>
     <option value="CEO ASSISTANT">CEO ASSISTANT</option>
-    <option value="FINANCE SPECIALIST">FINANCE SPECIALIST</option>
 </select>
     
    
@@ -563,12 +563,12 @@ $('#job1').on('click', function() {
         <div class="col-md-12 mb-4 mt-3 right-pd">
     <label for="position" class="form-label">11. The position you are applying for: <strong style="color: red;">*</strong> </label>
     <select class="form-select fw-semibold" id="position" name="position" required>
-    <option selected value="B2C SALES EXECUTIVE">B2C SALES EXECUTIVE</option>
+    <option selected value="BUSINESS DEVELOPMENT EXECUTIVE">BUSINESS DEVELOPMENT EXECUTIVE</option>
     <option value="B2B SALES EXECUTIVE">B2B SALES EXECUTIVE</option>
     <option value="SOLUTIONS SUCCESS EXECUTIVE">SOLUTIONS SUCCESS EXECUTIVE</option>
-    <option value="MARKETING & BRANDING SUCCESS EXECUTIVE">MARKETING & BRANDING SUCCESS EXECUTIVE</option>
+    <option value="PEOPLE & CULTURE EXECUTIVE">PEOPLE & CULTURE EXECUTIVE</option>
+    <option value="DATA ANALYST FRESHER">DATA ANALYST FRESHER</option>
     <option value="CEO ASSISTANT">CEO ASSISTANT</option>
-    <option value="FINANCE SPECIALIST">FINANCE SPECIALIST</option>
 </select>
     
    
@@ -738,12 +738,12 @@ $('#job3').on('click', function() {
         <div class="col-md-12 mb-4 mt-3 right-pd">
     <label for="position" class="form-label">11. The position you are applying for: <strong style="color: red;">*</strong> </label>
     <select class="form-select fw-semibold" id="position" name="position" required>
-    <option value="B2C SALES EXECUTIVE">B2C SALES EXECUTIVE</option>
+    <option value="BUSINESS DEVELOPMENT EXECUTIVE">BUSINESS DEVELOPMENT EXECUTIVE</option>
     <option value="B2B SALES EXECUTIVE">B2B SALES EXECUTIVE</option>
     <option selected value="SOLUTIONS SUCCESS EXECUTIVE">SOLUTIONS SUCCESS EXECUTIVE</option>
-    <option value="MARKETING & BRANDING SUCCESS EXECUTIVE">MARKETING & BRANDING SUCCESS EXECUTIVE</option>
+    <option value="PEOPLE & CULTURE EXECUTIVE">PEOPLE & CULTURE EXECUTIVE</option>
+    <option value="DATA ANALYST FRESHER">DATA ANALYST FRESHER</option>
     <option value="CEO ASSISTANT">CEO ASSISTANT</option>
-    <option value="FINANCE SPECIALIST">FINANCE SPECIALIST</option>
 </select>
     
    
@@ -913,12 +913,12 @@ $('#job4').on('click', function() {
         <div class="col-md-12 mb-4 mt-3 right-pd">
     <label for="position" class="form-label">11. The position you are applying for: <strong style="color: red;">*</strong> </label>
     <select class="form-select fw-semibold" id="position" name="position" required>
-    <option value="B2C SALES EXECUTIVE">B2C SALES EXECUTIVE</option>
+    <option value="BUSINESS DEVELOPMENT EXECUTIVE">BUSINESS DEVELOPMENT EXECUTIVE</option>
     <option value="B2B SALES EXECUTIVE">B2B SALES EXECUTIVE</option>
     <option value="SOLUTIONS SUCCESS EXECUTIVE">SOLUTIONS SUCCESS EXECUTIVE</option>
-    <option selected value="MARKETING & BRANDING SUCCESS EXECUTIVE">MARKETING & BRANDING SUCCESS EXECUTIVE</option>
+    <option selected value="PEOPLE & CULTURE EXECUTIVE">PEOPLE & CULTURE EXECUTIVE</option>
+    <option value="DATA ANALYST FRESHER">DATA ANALYST FRESHER</option>
     <option value="CEO ASSISTANT">CEO ASSISTANT</option>
-    <option value="FINANCE SPECIALIST">FINANCE SPECIALIST</option>
 </select>
     
    
@@ -1088,12 +1088,12 @@ $('#job5').on('click', function() {
         <div class="col-md-12 mb-4 mt-3 right-pd">
     <label for="position" class="form-label">11. The position you are applying for: <strong style="color: red;">*</strong> </label>
     <select class="form-select fw-semibold" id="position" name="position" required>
-    <option value="B2C SALES EXECUTIVE">B2C SALES EXECUTIVE</option>
+    <option value="BUSINESS DEVELOPMENT EXECUTIVE">BUSINESS DEVELOPMENT EXECUTIVE</option>
     <option value="B2B SALES EXECUTIVE">B2B SALES EXECUTIVE</option>
     <option value="SOLUTIONS SUCCESS EXECUTIVE">SOLUTIONS SUCCESS EXECUTIVE</option>
-    <option value="MARKETING & BRANDING SUCCESS EXECUTIVE">MARKETING & BRANDING SUCCESS EXECUTIVE</option>
-    <option selected value="CEO ASSISTANT">CEO ASSISTANT</option>
-    <option value="FINANCE SPECIALIST">FINANCE SPECIALIST</option>
+    <option value="PEOPLE & CULTURE EXECUTIVE">PEOPLE & CULTURE EXECUTIVE</option>
+    <option selected value="DATA ANALYST FRESHER">DATA ANALYST FRESHER</option>
+    <option value="CEO ASSISTANT">CEO ASSISTANT</option>
 </select>
     
    
@@ -1264,12 +1264,12 @@ $('#job6').on('click', function() {
         <div class="col-md-12 mb-4 mt-3 right-pd">
     <label for="position" class="form-label">11. The position you are applying for: <strong style="color: red;">*</strong> </label>
     <select class="form-select fw-semibold" id="position" name="position" required>
-    <option value="B2C SALES EXECUTIVE">B2C SALES EXECUTIVE</option>
+    <option value="BUSINESS DEVELOPMENT EXECUTIVE">BUSINESS DEVELOPMENT EXECUTIVE</option>
     <option value="B2B SALES EXECUTIVE">B2B SALES EXECUTIVE</option>
     <option value="SOLUTIONS SUCCESS EXECUTIVE">SOLUTIONS SUCCESS EXECUTIVE</option>
-    <option value="MARKETING & BRANDING SUCCESS EXECUTIVE">MARKETING & BRANDING SUCCESS EXECUTIVE</option>
-    <option value="CEO ASSISTANT">CEO ASSISTANT</option>
-    <option selected value="FINANCE SPECIALIST">FINANCE SPECIALIST</option>
+    <option value="PEOPLE & CULTURE EXECUTIVE">PEOPLE & CULTURE EXECUTIVE</option>
+    <option value="DATA ANALYST FRESHER">DATA ANALYST FRESHER</option>
+    <option selected value="CEO ASSISTANT">CEO ASSISTANT</option>
 </select>
     
    

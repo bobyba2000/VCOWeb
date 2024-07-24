@@ -2194,6 +2194,10 @@ form .inputs-description {
     line-height: 2.2rem;
 }
 
+.text-jd-title{
+    color: red;
+}
+
 .card__image {
     display: block;
     cursor: pointer;
