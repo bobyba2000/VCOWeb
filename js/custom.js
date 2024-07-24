@@ -1361,15 +1361,14 @@ function filterContent(category) {
 
     // Initialize Firebase
     var firebaseConfig = {
-
-        apiKey: "AIzaSyDbYob_QjKN8M_umN7Ct9OdkEH08y7RF2w",
-        authDomain: "ad-form-94890.firebaseapp.com",
-        databaseURL: "https://ad-form-94890.firebaseio.com",
-        projectId: "ad-form-94890",
-        storageBucket: "ad-form-94890.appspot.com",
-        messagingSenderId: "458557667857",
-        appId: "1:458557667857:web:a50446fc2f126bf6a20fb0"
-    };
+        apiKey: "AIzaSyAK4aliUnGN-CNdZ44ciPqjTDpKtAVWkgQ",
+        authDomain: "sampletest-67ced.firebaseapp.com",
+        databaseURL: "https://sampletest-67ced-default-rtdb.asia-southeast1.firebasedatabase.app",
+        projectId: "sampletest-67ced",
+        storageBucket: "sampletest-67ced.appspot.com",
+        messagingSenderId: "50359468223",
+        appId: "1:50359468223:web:6411c2e4b4cb54dd89860a"
+      };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
     var database = firebase.database();
